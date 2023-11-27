@@ -1,7 +1,7 @@
 # Worldwide data analysis interrelation between Covid-19 Infections and Vaccination
 
 ## Introduction
-This is Worldwide Coronavirus Data Analysis application. Here I collect data from Kaggle and Worldometer datasets for collecting data.  it’s created by Python programming language. Here I also analysis data of many types’ vaccines are available all-over in the world.
+This is Worldwide Coronavirus Data Analysis application. Here I collect data from Kaggle and Worldometer datasets for collecting data. It’s created by Python programming language. Here I also analysis data of many types’ vaccines are available all-over in the world.
 
 ## Features
 * Data visualization of COVID-19 cases and vaccination data
